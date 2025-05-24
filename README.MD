@@ -1,0 +1,1 @@
+[[https://spotify-github-profile-beta-sooty.vercel.app/api/view.svg?uid=31j5nhh2thn6yqpchaddjx2o55te&redirect=true][https://spotify-github-profile-beta-sooty.vercel.app/api/view.svg?uid=31j5nhh2thn6yqpchaddjx2o55te&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
