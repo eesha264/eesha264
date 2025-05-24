@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Eeshitha Gone 👋</h1>
 <p align="center">
-  🚀 Data Science Undergrad • 💻 Tech Explorer • 📣 Community Builder • 🎵 Music Enthusiast
+  🚀 Data Science Undergrad • 💻 Tech Explorer • 📣 Community Builder • 🏋️‍♀️ Gym Enthusiast
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 Hey there! I'm Eeshitha — currently decoding the world of data and code as a Data Science student at **Sreenidhi Institute of Science and Technology**. I love turning ideas into tech — especially when it helps real people. Whether it's building full-stack projects, diving into cloud tools, or managing club socials, I’m always looking to learn, create, and collaborate.
 
-📍 Hyderabad | 🎓 Class of 2026 | CGPA: 8.0
+📍 Hyderabad | 🎓 Class of 2026 
 
 ---
 
