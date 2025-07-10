@@ -39,7 +39,7 @@ Extras
 ## 🌟 What I’ve Built
 
 ### 🏥 Hospital Management System
-> **Tech:** React, Bootstrap, Spring Boot, Node.js, MySQL  
+> **Tech:** CSS, HTML, Javascript, Bootstrap  
 Built a full-stack system to simplify hospital workflows — from appointments to billing and EMRs. It’s clean, modular, and made to scale.
 
 ### 🌿 Personalized Skincare Recommendation App
