@@ -68,15 +68,6 @@ Worked behind the scenes to support Swecha + IIIT-Hyderabad’s AI Hack Day. Hel
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eesha264&theme=gruvbox&show_icons=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eesha264&theme=gruvbox" />
-</p>
-
----
 
 ## 📬 Let's Talk
 
