@@ -1,87 +1,112 @@
-<h1 align="center">Hi, I'm Eeshitha Gone 👋</h1>
+<h1 align="center">Hey, I'm Eeshitha Gone 👋</h1>
 <p align="center">
-  🚀 Data Science Undergrad • 💻 Tech Explorer • 📣 Community Builder • 🏋️‍♀️ Gym Enthusiast
+  ⚡ Real-Time Systems Engineer • 🧠 Data Science Undergrad • ☁️ Cloud Explorer • 📣 Tech Community Lead
+</p>
+
+<p align="center">
+  I build systems that sync in real time, scale intelligently, and stay secure under pressure.
 </p>
 
 ---
 
-## 💁‍♀️ About Me
+## 🧠 About Me
 
-Hey there! I'm Eeshitha — currently decoding the world of data and code as a Data Science student at **Sreenidhi Institute of Science and Technology**. I love turning ideas into tech — especially when it helps real people. Whether it's building full-stack projects, diving into cloud tools, or managing club socials, I’m always looking to learn, create, and collaborate.
+I'm Eeshitha — a Data Science undergrad at **Sreenidhi Institute of Science and Technology (Class of 2026)** based in Hyderabad 🇮🇳.
 
-📍 Hyderabad | 🎓 Class of 2026 
+I’m deeply interested in:
+- Real-time distributed systems  
+- Backend architecture & secure integrations  
+- Hybrid database design  
+- Cloud-native and serverless systems  
+
+I enjoy turning engineering concepts into working products — especially systems where synchronization, state consistency, and performance matter.
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠 Tech Stack
 
-Languages  
+### Languages  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Web  
+### Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-Tools & Frameworks  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Backend & Data  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Cloud Functions](https://img.shields.io/badge/Firebase_Cloud_Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-Extras  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
----
-
-## 🌟 What I’ve Built
-
-### 🏥 Hospital Management System
-> **Tech:** CSS, HTML, Javascript, Bootstrap  
-Built a full-stack system to simplify hospital workflows — from appointments to billing and EMRs. It’s clean, modular, and made to scale.
-
-### 🌿 Personalized Skincare Recommendation App
-> **Tech:** HTML, CSS, JavaScript  
-A dynamic quiz-based app that gives skincare product suggestions based on user skin type and concerns. Beauty meets logic!
+### Deployment  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🎤 Campus Involvement
-
-### 🌩 Publicity Head @ Cloud Community Club  
-Bringing tech events to life through design, strategy, and social media. From posts to promotions, I manage the buzz and keep the vibe alive.
-
-### 🤖 Organizer – AI Hack Day  
-Worked behind the scenes to support Swecha + IIIT-Hyderabad’s AI Hack Day. Helped teams collaborate, brainstorm, and build cool stuff.
+# 🚀 Featured Projects
 
 ---
 
-## 🎶 What I’m Listening To
+## ⚡ Zync — Real-Time Collaboration Platform  
+**Status:** Active Development (Web + Desktop)  
+🔗 Repo: https://github.com/eesha264/zync  
+
+A unified workspace that merges task management, structured workflows, and persistent team communication — built for real-time collaboration.
+
+### Engineering Highlights
+- 🔐 GitHub webhook verification using **HMAC SHA-256** to securely update task states  
+- 🧩 Hybrid database architecture:
+  - Firestore → high-frequency chat writes  
+  - MongoDB → structured workflow & metadata  
+- 🔄 Designed for state consistency between code activity and project lifecycle  
+- ⚡ Real-time updates powered by WebSockets  
+
+Architected to balance performance, security, and data integrity.
+
+---
+
+## 🎮 QuizWhiz — Real-Time Multiplayer Quiz Platform  
+**Status:** Functional  
+🔗 Repo: https://github.com/eesha264/QuizWhiz  
+
+A real-time multiplayer quiz system built for live events and competitive environments.
+
+### Engineering Highlights
+- ⚙️ Serverless scoring logic via **Firebase Cloud Functions**  
+- 🔄 Firestore snapshot listeners for low-latency synchronization  
+- 🛡️ Backend-validated scoring to prevent client-side manipulation  
+- ⚡ Real-time leaderboard updates across connected players  
+
+Designed with fairness, scalability, and synchronization at its core.
+
+---
+
+## 🌩 Leadership
+
+### Publicity Head — Cloud Community Club  
+Driving technical outreach, event promotions, and digital strategy.
+
+### Organizer — AI Hack Day (Swecha x IIIT-Hyderabad)  
+Supported logistics, team coordination, and participant engagement for a large-scale AI hackathon.
+
+---
+
+## 📬 Connect With Me
+
+- 📫 Email: eeshagone45@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/gone-eeshitha-38192624a  
+- 💻 GitHub: https://github.com/eesha264  
+
+---
 
 <p align="center">
-  <a href="https://spotify-github-profile-beta-sooty.vercel.app/api/view?uid=31j5nhh2thn6yqpchaddjx2o55te&redirect=true">
-    <img src="https://spotify-github-profile-beta-sooty.vercel.app/api/view?uid=31j5nhh2thn6yqpchaddjx2o55te&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=eesha264&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-
-## 📬 Let's Talk
-
-- 📫 [Email](mailto:eeshagone45@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gone-eeshitha-38192624a)  
-- 💻 [GitHub](https://github.com/eesha264)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eesha264&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
----
-
-> “Stay curious. Break things. Build better.”
-
+> “Build systems. Design for scale. Stay curious.”
