@@ -101,7 +101,7 @@ Supported coordination and execution of a large-scale AI hackathon.
 ## 📬 Let's Connect
 
 - 📫 Email: eeshagone45@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/gone-eeshitha-38192624a  
+- 💼 LinkedIn: www.linkedin.com/in/eesha-gone 
 - 💻 GitHub: https://github.com/eesha264  
 
 ---
