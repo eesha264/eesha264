@@ -12,7 +12,7 @@
 
 ## 💁‍♀️ About Me
 
-I'm Eeshitha — a Data Science undergrad at **Sreenidhi Institute of Science and Technology (Class of 2026)** based in Hyderabad 🇮🇳.
+I'm Eeshitha — a Data Science graduate at **Sreenidhi Institute of Science and Technology (Class of 2026)** based in Hyderabad 🇮🇳.
 
 I specialize in building responsive, real-time web applications with strong frontend architecture.  
 I care deeply about:
